@@ -21,7 +21,7 @@ class Api:
         
         if data:
             structure = {
-                "server_online": True,
+                "isonline": True,
                 "ip": config()['ip'],
                 "port": config()['port'],
                 "online": data.players.online,
