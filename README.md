@@ -12,6 +12,7 @@ Just another simple python minecraft rest-api
 # Expected Result
 <h3>Java</h3>
 ```json
+// Java
 {
   "isonline": true,
   "ip": "serverip",
@@ -26,9 +27,8 @@ Just another simple python minecraft rest-api
   "version": "Pufferfish 1.20",
   "protocol":-1
 }
-```
-<h3>Bedrock</h3>
-```json
+
+// BEDROCK
 {
   "isonline": true,
   "ip":"pe.calidas.my.id",
