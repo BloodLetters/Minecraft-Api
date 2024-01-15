@@ -10,6 +10,7 @@ Just another simple python minecraft rest-api
 ```
 
 # Expected Result
+<h3>Java</h3>
 ```json
 {
   "isonline": true,
@@ -24,5 +25,18 @@ Just another simple python minecraft rest-api
     },
   "version": "Pufferfish 1.20",
   "protocol":-1
+}
+```
+<h3>Bedrock</h3>
+```json
+{
+  "isonline": true,
+  "ip":"pe.calidas.my.id",
+  "port": 60044,
+  "online": 4,
+  "max": 100, 
+  "players": {},
+  "version": "1.20.50",
+  "protocol": 630
 }
 ```
