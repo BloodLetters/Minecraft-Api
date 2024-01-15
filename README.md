@@ -27,16 +27,4 @@ Just another simple python minecraft rest-api
   "version": "Pufferfish 1.20",
   "protocol":-1
 }
-
-// BEDROCK
-{
-  "isonline": true,
-  "ip":"pe.calidas.my.id",
-  "port": 60044,
-  "online": 4,
-  "max": 100, 
-  "players": {},
-  "version": "1.20.50",
-  "protocol": 630
-}
 ```
