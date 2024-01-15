@@ -10,7 +10,6 @@ Just another simple python minecraft rest-api
 ```
 
 # Expected Result
-<h3>Java</h3>
 ```json
 // Java
 {
